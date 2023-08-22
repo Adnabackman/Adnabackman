@@ -1,3 +1,5 @@
+## Bem-vindos ao meu perfil 🌻🌼
+
 - 👩🏻 Olá, me chamo Adna Backman estudante de programação e tecnologia
 - 👩🏻‍🎓 Formada em Análise e Desenvolvimento de Sistemas
 - 👩🏻‍💻 Estudante Front-end
@@ -15,8 +17,11 @@
   <img align="center" alt="Adna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Adna-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Adna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
 </div>
+
+<br>
+
+### Minhas Redes Sociais 👩🏻‍💻
 
 <div> 
   <a href="https://instagram.com/adnabackman" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
