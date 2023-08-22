@@ -2,7 +2,7 @@
 
 - 👩🏻 Olá, me chamo Adna Backman estudante de programação e tecnologia
 - 👩🏻‍🎓 Formada em Análise e Desenvolvimento de Sistemas
-- 👩🏻‍💻 Estudante Front-end
+- 👩🏻‍💻 Estudante de Front-end
 - 🐱 Apaixonada por gato
 <div>
    <a href="https://github.com/adnabackman">
